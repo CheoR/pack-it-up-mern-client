@@ -1,4 +1,4 @@
-<img src="./assets/images/PackItUpLogo.png" alt="Pack It Up Logo" />
+<img src="./src/assets/images/PackItUpLogo.png" alt="Pack It Up Logo" />
 
 # PackItUpMern
 
@@ -96,14 +96,14 @@ This is my front-end capstone project for Nashville Software School.
 
 ## Demo
 
-<img src="./assets/screen-recording.gif" alt="Pack It Up App Demo">
+<img src="./src/assets/screen-recording.gif" alt="Pack It Up App Demo">
 
 ## ERD
 
 Entity relationship diagram can be viewd at [diagram](https://dbdiagram.io/d/603cf260fcdcb6230b21ffe2) or latest screen capture below.
 
 <details>
-  <img src="./assets/images/PackItUp.png" alt="entity relationship diagram for pack it up" />
+  <img src="./src/assets/images/PackItUp.png" alt="entity relationship diagram for pack it up" />
 </details>
 
 ## Layout
@@ -111,7 +111,7 @@ Entity relationship diagram can be viewd at [diagram](https://dbdiagram.io/d/603
 Most up to date layout can be viewd at [my figma layout](https://www.figma.com/file/FVTItU8oORU8Mrihcd60Jj/PackItUp?node-id=39%3A0) or you can view latest screen capture below:
 
 <details>
- <img src="./assets/images/Layout.png" alt="layout for pack it up" />
+ <img src="./src/assets/images/Layout.png" alt="layout for pack it up" />
 </details>
 
 ## Cloning
